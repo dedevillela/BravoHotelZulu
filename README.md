@@ -1,22 +1,22 @@
-# FlightAirMap
+# BravoHotelZulu
 
-FlightAirMap is a fork of Barrie Spotter [https://github.com/barriespotter/Web_App](https://github.com/barriespotter/Web_App) with map, airspaces, METAR, PDO and ADS-B support.
-Browse through the data based on a particular aircraft, airline or airport to search through the database. See extensive statistics such as most common aircraft type, airline, departure & arrival airport and busiest time of the day, or just explore flights.
+BravoHotelZulu é um fork de Barrie Spotter [https://github.com/barriespotter/Web_App](https://github.com/barriespotter/Web_App) e Ysurac [https://github.com/Ysurac/FlightAirMap](https://github.com/Ysurac/FlightAirMap) com mapa, espaço aéreo, METAR, PDO e suporte ADS-B.
+Navegue pelos dados baseados em uma aeronave, linha aérea ou aeroporto em particular. Veja estatísticas extensivas sobre os tipos de  aeronaves, linhas aéreas, partida e chegada dos aeroportos e os horários mais do dia, ou simplesmente explore os voos.
 
-It can be used with Dump1090 or any SBS source.
-Can also be used with IVAO sources like whazzup.txt, phpvms,...
+Pode ser usado com Dump1090 ou qualquer fonte SBS.
+Também pode ser usado com fontes da IVAO como whazzup.txt, phpvms,...
 
-It also support glidernet APRS source.
+Além disso também suporta glidernet APRS como fonte.
 
 ## Demo
-* From ADS-B : [https://www.flightairmap.fr/](https://www.flightairmap.fr/)
-* From IVAO : [https://ivao.flightairmap.fr/](https://ivao.flightairmap.fr/)
-* From VATSIM : [https://vatsim.flightairmap.fr/](https://vatsim.flightairmap.fr/)
+* ADS-B : [https://www.flightairmap.fr/](https://www.flightairmap.fr/)
+* IVAO : [https://ivao.flightairmap.fr/](https://ivao.flightairmap.fr/)
+* VATSIM : [https://vatsim.flightairmap.fr/](https://vatsim.flightairmap.fr/)
 
 
-## System Requirements
+## Requisitos do Sistema
 
-To install the web app, you need to have meet the following requirements:
+Para instalar o aplicativo web, você precisa cumprir os seguintes requisitos:
 
 * PHP version 5.2.3 or greater (5.3 or greater is recommended)
 * MySQL version 5.6 or greater (or MariaDB)
