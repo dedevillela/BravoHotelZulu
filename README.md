@@ -1,7 +1,7 @@
 # BravoHotelZulu
 
 BravoHotelZulu é um fork de Barrie Spotter [https://github.com/barriespotter/Web_App](https://github.com/barriespotter/Web_App) e Ysurac [https://github.com/Ysurac/FlightAirMap](https://github.com/Ysurac/FlightAirMap) com mapa, espaço aéreo, METAR, PDO e suporte ADS-B.
-Navegue pelos dados baseados em uma aeronave, linha aérea ou aeroporto em particular. Veja estatísticas extensivas sobre os tipos de  aeronaves, linhas aéreas, partida e chegada dos aeroportos e os horários mais do dia, ou simplesmente explore os voos.
+Navegue pelos dados baseados em uma aeronave, linha aérea ou aeroporto em particular. Veja estatísticas extensivas sobre os tipos de  aeronaves, linhas aéreas, partidas e chegadas dos aeroportos e os horários mais movimentados do dia, ou simplesmente explore os voos.
 
 Pode ser usado com Dump1090 ou qualquer fonte SBS.
 Também pode ser usado com fontes da IVAO como whazzup.txt, phpvms,...
